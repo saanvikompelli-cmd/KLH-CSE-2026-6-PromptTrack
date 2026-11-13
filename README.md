@@ -102,7 +102,7 @@ PromptTrack/
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <[YOUR_GITHUB_REPOSITORY_URL](https://github.com/saanvikompelli-cmd/KLH-CSE-2026-6-PromptTrack)>
 ```
 
 2. Open the project folder:
